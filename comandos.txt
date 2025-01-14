@@ -1,0 +1,4 @@
+chmod +x calculadora.sh
+chmod 744 calculadora.sh
+
+python3 /home/camila/modulo2/linux/projeto_mod1.py
