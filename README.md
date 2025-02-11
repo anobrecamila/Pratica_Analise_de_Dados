@@ -1,6 +1,8 @@
 # Projetos Análise de Dados
- Repositório para os projetos do curso Análise de Dados
+ Repositório para as tarefas práticas do curso Análise de Dados.
 
-* Teste 1
-* Teste 2
-* Teste 3
+* Python
+* Linux
+* Power Shell
+* Sheets
+* SQL
